@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function Card({title, image, text, url}) {
+function Card({title, image, url}) {
 
     return (
         <div className="card text-center bg-light animate__animated animate__fadeInUp">
